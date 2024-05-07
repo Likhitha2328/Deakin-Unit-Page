@@ -17,7 +17,9 @@ p {
   font-family: Arial
 }
 
-div {
+
+div 
+{
   background-color: blue;
   text-align: right;
 }
